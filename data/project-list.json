@@ -1,0 +1,10 @@
+[
+  {
+    "name": "home",
+    "url": "/"
+  },
+  {
+    "name": "analog clock",
+    "url": "/analog-clock/"
+  }
+]
