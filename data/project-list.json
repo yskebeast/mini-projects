@@ -6,5 +6,9 @@
   {
     "name": "analog clock",
     "url": "/analog-clock/"
+  },
+  {
+    "name": "star rating",
+    "url": "/star-rating/"
   }
 ]
