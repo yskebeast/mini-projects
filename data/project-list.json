@@ -10,5 +10,9 @@
   {
     "name": "star rating",
     "url": "/star-rating/"
+  },
+  {
+    "name": "drag and drop",
+    "url": "/drag-and-drop/"
   }
 ]
